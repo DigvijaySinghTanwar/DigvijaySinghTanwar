@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DigvijaySinghTanwar
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Software Developement.
 - 🌱 I’m currently learning C,C++,java,python  programming language
 - 💞️ I’m looking to collaborate on learning more about programming and developing an application
 - 📫 How to reach me digvijaysinghtanwar91@gmail.com
