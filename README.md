@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DigvijaySinghTanwar
 - 👀 I’m interested in Software Developement.
-- 🌱 I’m currently learning C,C++,java,python  programming language
+- 🌱 I’m currently learning C++,java,python programming language and Salesforce development
 - 💞️ I’m looking to collaborate on learning more about programming and developing an application
+-  $ My Trailhead (Salesforce) profile https://www.salesforce.com/trailblazer/dstanwar91
 - 📫 How to reach me digvijaysinghtanwar91@gmail.com
 -  #  I am passionate to learn something new in field of technology.
 <!---- Programming 
